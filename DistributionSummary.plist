@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>富朗特智能应用平台.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>932931DAA8D80A53AA20851234A0D9E7195230BF</string>
+				<key>dateExpires</key>
+				<string>2021/1/16</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>GTPYSC4FRJ.com.frontan.e</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>GTPYSC4FRJ</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>富朗特智能应用平台.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>71cc7c56-b0bf-459f-aa70-802eca173fd2</string>
+				<key>name</key>
+				<string>production-in-house</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>GTPYSC4FRJ</string>
+				<key>name</key>
+				<string>Shanghai Fulangte Animal Health Care Co.,ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
