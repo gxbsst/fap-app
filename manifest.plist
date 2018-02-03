@@ -23,13 +23,13 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://gitee.com/gxbsst/app/raw/master/icon@2x.png</string>
+					<string>https://gitee.com/gxbsst/app/raw/master/icon-1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.frontan.e</string>
+				<string>com.frontan.e1</string>
 				<key>bundle-version</key>
 				<string>1.2.5</string>
 				<key>kind</key>
