@@ -44,47 +44,7 @@
 				<key>name</key>
 				<string>Shanghai Fulangte Animal Health Care Co.,ltd.</string>
 			</dict>
-
-            <key>assets</key>
-                <array>
-                    <dict>
-                        <key>kind</key>
-                        <string>software-package</string>
-                        <key>url</key>
-                        <string>https://gitee.com/gxbsst/app/raw/master/富朗特智能应用平台.ipa</string>
-                    </dict>
-                    <dict>
-                        <key>kind</key>
-                        <string>full-size-image</string>
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                        <string>https://gitee.com/gxbsst/app/raw/master/icon@2x.png</string>
-                    </dict>
-                    <dict>
-                        <key>kind</key>
-                        <string>display-image</string>
-                        <key>needs-shine</key>
-                        <true/>
-                        <key>url</key>
-                       <string>https://gitee.com/gxbsst/app/raw/master/icon.png</string>
-                    </dict>
-                </array>
-
-                 <key>metadata</key>
-                <dict>
-                    <key>bundle-identifier</key>
-                    <string>2.0.1</string>
-                    <key>bundle-version</key>
-                    <string>2.0.1</string>
-                    <key>kind</key>
-                    <string>software</string>
-                    <key>title</key>
-                    <string>富朗特智能应用平台</string>
-                </dict>
-
 		</dict>
-
 	</array>
 </dict>
 </plist>
