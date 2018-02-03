@@ -11,19 +11,12 @@
 		<key>displayImageURL</key>
 		<string>https://gitee.com/gxbsst/app/raw/master/icon@2x.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://gitee.com/gxbsst/app/raw/master/icon@2x.png</string>
+		<string>https://gitee.com/gxbsst/app/raw/master/icon-1024.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>com.frontan.e</key>
-		<string>production-in-house</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>iPhone Distribution</string>
 	<key>signingStyle</key>
-	<string>manual</string>
+	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>

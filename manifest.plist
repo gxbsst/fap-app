@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.frontan.e1</string>
+				<string>com.frontan.e</string>
 				<key>bundle-version</key>
 				<string>1.2.5</string>
 				<key>kind</key>
