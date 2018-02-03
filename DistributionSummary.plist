@@ -22,7 +22,7 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>GTPYSC4FRJ.com.frontan.e</string>
+				<string>GTPYSC4FRJ.com.frontan.appledev</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>GTPYSC4FRJ</string>
 				<key>get-task-allow</key>
@@ -33,9 +33,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>c148400d-8bec-49c9-ad65-b1a8d6d16aca</string>
+				<string>81325df5-3ff8-4c1c-ae74-8c2366ca0def</string>
 				<key>name</key>
-				<string>iOS Team Inhouse Provisioning Profile: com.frontan.e</string>
+				<string>com.frontan.appledev.production2-3</string>
 			</dict>
 			<key>team</key>
 			<dict>
